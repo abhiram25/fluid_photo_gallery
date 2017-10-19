@@ -1,0 +1,19 @@
+body {
+	background-color: #222;
+	font: normal 16px Helvetica, Arial, sans-serif;
+	margin: 0;
+}
+
+main {
+	background-color: #333333;
+	max-width: 1000px;
+	min-width: 600px;
+	margin: 0 auto;
+	display: block;
+	padding: 25px 20px 20px;
+}
+
+h1 {
+	text-align: center;
+	color: #fff;
+}
